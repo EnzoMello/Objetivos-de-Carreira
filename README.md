@@ -66,7 +66,7 @@
 
 | Desafio | Como lidou | Lições aprendidas |
 |---------|------------|-------------------|
-| **Integração de robótica(Arduíno Esplora) com a engine GODOT** | Trabalhei em colaboração com equipe para integrar um microcontrolador Arduíno Esplora na engine de desenvolvimento de jogos, GODOT, com o objetivo de fazer um jogo educativo para Mostra Nacional de Robótica. Ter resiliência para resolver os desafios de conexão dos dois e comunicação em equipe são essenciais para permitir a superação de desafios complexos. |
+| **Integração de robótica(Arduíno Esplora) com a engine GODOT** | Trabalhei em colaboração com equipe para integrar um microcontrolador Arduíno Esplora na engine de desenvolvimento de jogos, GODOT, com o objetivo de fazer um jogo educativo para Mostra Nacional de Robótica. Dito isso, houve grande dificuldade para realizar a conexão do Arduíno com a Engine, além da dificuldade de se usar uma linguagem desconnhecida, na época, C#, para integrá-los. | Ter resiliência para resolver os desafios de conexão dos dois e comunicação em equipe são essenciais para permitir a superação de desafios complexos.
 
 ---
 
