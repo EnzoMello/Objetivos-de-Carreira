@@ -37,7 +37,7 @@
 
 | Desafio | Como lidar com ele |
 |---------|--------------------|
-| **Segurança** | Especializar-me em cibersegurança e adotar práticas de codificação segura para mitigar vulnerabilidades desde as fases iniciais do desenvolvimento. |
+| **Segurança** | Especializar-me em práticas relacionadas à inovação de métodos mais rígidos de estabilidade de um sistema, além de integrar os sistemas com outras áreas de TI e proporcionar uma rede mais ampla de segurança. Um exemplo base seria começar dominando tendências como Blockchain. |
 
 ---
 
@@ -56,18 +56,21 @@
 | **Comunicação** | Ter boa comunicação para trocar ideias e resolver problemas rapidamente. |
 | **Empatia** | Saber trabalhar com diferentes perfis de pessoas e colaborar de maneira eficaz. |
 | **Capacidade de aprender** | Ser aberto a feedbacks e sempre aprender com os outros membros da equipe. |
+| **Disciplina** | Ter foco e resiliência para superar desafios encontrados durante um projeto, além de estudar conteúdos não vistos antes. |
+| **Resumindo** | Trabalhar em equipe exige intensa colaboração de todos os membros, uma vez que é necessário cada um se ajudar para que todos os integrantes cresçam ao longo do projeto. Dito isso, o crescimento coletivo possibilita benefícios maiores ao software final, dado que as chances de incrementações são possibilitadas por todos os lados. |
+
 
 ---
 
-## 8. Você já enfrentou algum grande obstáculo em um projeto de software? Como você lidou com ele e o que aprendeu da experiência?
+## 7. Você já enfrentou algum grande obstáculo em um projeto de software? Como você lidou com ele e o que aprendeu da experiência?
 
 | Desafio | Como lidou | Lições aprendidas |
 |---------|------------|-------------------|
-| **Integração de API em sistema legado** | Trabalhei em colaboração com a equipe para mapear dependências e realizar a integração gradualmente. | A importância de uma boa comunicação e documentação, além do planejamento adequado. |
+| **Integração de robótica(Arduíno Esplora) com a engine GODOT** | Trabalhei em colaboração com equipe para integrar um microcontrolador Arduíno Esplora na engine de desenvolvimento de jogos, GODOT, com o objetivo de fazer um jogo educativo para Mostra Nacional de Robótica. Ter resiliência para resolver os desafios de conexão dos dois e comunicação em equipe são essenciais para permitir a superação de desafios complexos. |
 
 ---
 
-## 9. Em que tipo de ambiente de trabalho você se sente mais produtivo e motivado para alcançar seus objetivos profissionais?
+## 8. Em que tipo de ambiente de trabalho você se sente mais produtivo e motivado para alcançar seus objetivos profissionais?
 
 | Tipo de Ambiente | Motivação |
 |------------------|-----------|
